@@ -4,7 +4,8 @@
   "description": "Learning about Git and NPM",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "say-hi": "echo Hello from my custom scripts"
   },
   "author": "JB",
   "license": "ISC",
@@ -12,3 +13,4 @@
     "react": "^19.2.0"
   }
 }
+
